@@ -1,7 +1,7 @@
 # Frontend Mentor - News component solution (Mobile only)
 
-### Screenshot
-
+### Screen recording
+https://github.com/alibeniaminali/Frontend-mentor-news/assets/94930059/284b1dc1-55b3-45c6-8688-24acc218cbd9
 
 ## Table of contents
 
@@ -17,6 +17,7 @@ The layout of this component is only for mobile devices.
 
 ### Links
 
+If viewing on desktop, please resize your browser or enter responsive design mode
 - Live Site URL: [Deployed on GitHub pages](https://alibeniaminali.github.io/Frontend-mentor-notifications/)
 
 ### Built with
