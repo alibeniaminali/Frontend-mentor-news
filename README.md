@@ -17,7 +17,7 @@ https://github.com/alibeniaminali/Frontend-mentor-news/assets/94930059/284b1dc1-
 
 ### Links
 
-- Live Site URL: [Deployed on GitHub pages]([https://alibeniaminali.github.io/Frontend-mentor-notifications/](https://alibeniaminali.github.io/Frontend-mentor-news/))
+- Live Site URL: [Deployed on GitHub pages](https://alibeniaminali.github.io/Frontend-mentor-news/)
 
 ### Built with
 
